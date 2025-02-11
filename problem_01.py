@@ -4,7 +4,7 @@
 # Simple Calculator Program
 
 def main():
-    pass  print("Simple Calculator Program")
+print("Simple Calculator Program")
 
 if __name__ == "__main__":
     main()
